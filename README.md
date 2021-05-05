@@ -12,7 +12,9 @@ The Booth’s Algorithm involves following basic operations :
 2. Binary addition
 3. Binary subtraction using 2’s complement.
  To simulate the datapath we can use various hardware components such as, multiplexers, decoders, shift registers, counters, RAM etc. to store, retrieve and manipulate data.
-RISC based datapath include 5 stage-operation
+RISC based datapath include 5 stage-operation.
+
+Simulation tool used : Logisim
 
 
 
